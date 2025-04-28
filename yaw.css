@@ -1,0 +1,19 @@
+/* styles.css */
+.box {
+    background-color: lightblue;
+    color: navy;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid navy;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px auto; /* Center the box horizontally */
+    border-radius: 5px; /* Add rounded corners */
+}
+
+.box-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
